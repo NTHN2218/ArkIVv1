@@ -30,7 +30,7 @@
       - Uses borders for separation and hierarchy visualization.  
   
    6.   Error Handling    
-      - Graceful handling of file read/write errors with dialog messages.  
+      - handling of file read/write errors with dialog messages.  
   
    7.   Data Storage Format   (inside `data_1.txt`)  
       Each task is stored on a new line in the format:  
